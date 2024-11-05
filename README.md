@@ -4,3 +4,5 @@ We are working on a social media platform for star citizen created by the commun
 Now let's talk a little about our page.
 First of all, our social media address. https://starcitizensocial.com/
 # Login Screen
+When you first enter our page, you will be greeted by a login screen. Create a new account here or log in to your existing account if you have one.
+![Ekran Resmi 2024-11-05 15 15 44](https://github.com/user-attachments/assets/e8eb72db-c58e-46e3-85d1-78b4333b18db)
