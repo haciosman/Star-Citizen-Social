@@ -6,3 +6,17 @@ First of all, our social media address. https://starcitizensocial.com/
 # Login Screen
 When you first enter our page, you will be greeted by a login screen. Create a new account here or log in to your existing account if you have one.
 ![Ekran Resmi 2024-11-05 15 15 44](https://github.com/user-attachments/assets/e8eb72db-c58e-46e3-85d1-78b4333b18db)
+# Welcome Screen
+When you log in to our page, you will see friend suggestions, group suggestions and group pages on the main page. You will also see the posts of the friends you follow on this page.
+![Ekran Resmi 2024-11-05 15 32 21](https://github.com/user-attachments/assets/58e12b40-9870-4c17-8103-8419c6f83cff)
+# Sharing
+You can create your post in this window by clicking on the post sending bar on the main page. You can share pictures, videos and reels.
+![Ekran Resmi 2024-11-05 15 35 27](https://github.com/user-attachments/assets/f24c7866-e56e-4761-ab3f-3f8324b0f745)
+# Profile Page
+You can also edit your profile page. Introduce yourself and update your profile picture and cover photo.
+![Ekran Resmi 2024-11-05 15 38 55](https://github.com/user-attachments/assets/69425303-e734-40d4-868b-2f814ea95330)
+# Messaging and Voice Calling
+You can easily message your friends, make voice calls, and show your reaction with emojis and posts.
+![Ekran Resmi 2024-11-05 15 41 54](https://github.com/user-attachments/assets/2dea5b4c-28c5-456e-ae5b-3b4a0d7589ec)
+# Finally
+Although it looks like a social media page used today, the only difference is that it is a page made for star citizen players. Our goal is to bring all players together and solve their problems and requests quickly. We are working on new updates in the future. The updates we are working on are as follows: group chat, android app for our star map page and targeting trading tools. Don't forget to give us feedback. We will always need your ideas. Stay healthy.
