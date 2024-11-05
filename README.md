@@ -1,3 +1,1 @@
-# Star-Citizen-Social
-Star Citizen Social
-nghmghmy
+# Star Citizen Social
