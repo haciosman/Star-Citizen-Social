@@ -18,5 +18,13 @@ You can also edit your profile page. Introduce yourself and update your profile 
 # Messaging and Voice Calling
 You can easily message your friends, make voice calls, and show your reaction with emojis and posts.
 ![Ekran Resmi 2024-11-05 15 41 54](https://github.com/user-attachments/assets/2dea5b4c-28c5-456e-ae5b-3b4a0d7589ec)
+# Discord alternative group chat service has been released.
+To access this page, you can sign up for the Star Citizen social page, log in from the menu on the left, and join the chat page. You can create a group on this page, create a password-protected group, share your screen, and talk to your friends in your group at the same time, and many more features.
+![Ekran Resmi 2024-11-27 13 30 53](https://github.com/user-attachments/assets/c9cf2a29-4718-4e97-87e6-377cbddd2ff2)
+# Android APP
+The Android app for the Star Citizen social page has been released.
+https://play.google.com/store/apps/details?id=scsocial.app.webview&hl=tr
+
+
 # Finally
 Although it looks like a social media page used today, the only difference is that it is a page made for star citizen players. Our goal is to bring all players together and solve their problems and requests quickly. We are working on new updates in the future. The updates we are working on are as follows: group chat, android app for our star map page and targeting trading tools. Don't forget to give us feedback. We will always need your ideas. Stay healthy.
