@@ -24,6 +24,9 @@ To access this page, you can sign up for the Star Citizen social page, log in fr
 # Android APP
 The Android app for the Star Citizen social page has been released.
 https://play.google.com/store/apps/details?id=scsocial.app.webview&hl=tr
+# APP Store
+The IOS app for the Star Citizen social page has been released.
+https://apps.apple.com/tr/app/star-citizen-social/id6741367708?l=tr
 
 
 # Finally
